@@ -20,7 +20,7 @@ This project is a command-line To-Do List manager built using Python.
 - File Handling
 - Lists & Loops
 
-- ##Author
+## Author
 - Dhanay Kelkar
 
 ## How to Run
