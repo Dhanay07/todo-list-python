@@ -28,11 +28,11 @@ This project is a command-line To-Do List manager built using Python.
 ### Add Task
 ![Add Task](screenshots/add_task.png)
 
-### Delete Task
-![Delete Task](screenshots/dele_task.png)
-
 ### View Task
 ![View Task](screenshots/view_task.png)
+
+### Delete Task
+![Delete Task](screenshots/dele_task.png)
 
 
 ## Author
