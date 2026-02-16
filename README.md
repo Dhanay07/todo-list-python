@@ -29,10 +29,10 @@ This project is a command-line To-Do List manager built using Python.
 ![Add Task](screenshots/add_task.png)
 
 ### Delete Task
-![Delete Task](screenshots/delete_task.png)
+![Delete Task](screenshots/dele_task.png)
 
 ### File Storage
-![File Storage](screenshots/file_storage.png)
+![File Storage](screenshots/view_task.png)
 
 ## Author
 - Dhanay Kelkar
