@@ -20,6 +20,20 @@ This project is a command-line To-Do List manager built using Python.
 - File Handling
 - Lists & Loops
 
+## 📸 Screenshots
+
+### Menu
+![Menu](screenshots/menu.png)
+
+### Add Task
+![Add Task](screenshots/add_task.png)
+
+### Delete Task
+![Delete Task](screenshots/delete_task.png)
+
+### File Storage
+![File Storage](screenshots/file_storage.png)
+
 ## Author
 - Dhanay Kelkar
 
